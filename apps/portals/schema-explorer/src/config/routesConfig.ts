@@ -188,10 +188,6 @@ const routes: GenericRoute[] = [
         ],
       },
       {
-        path: 'Files',
-        hideRouteFromNavbar: false,
-      },
-      {
         path: 'Standards',
         hideRouteFromNavbar: false,
       },

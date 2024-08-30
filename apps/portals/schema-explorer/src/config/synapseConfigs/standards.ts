@@ -5,7 +5,7 @@ import { QueryWrapperPlotNavProps } from 'synapse-react-client'
 
 const rgbIndex = 1
 export const visibleColumnCount = 7
-export const filesPlotNavProps: QueryWrapperPlotNavProps = {
+export const standardsPlotNavProps: QueryWrapperPlotNavProps = {
   rgbIndex,
   name: 'Standards',
   sql: filesSql,
@@ -23,9 +23,9 @@ export const filesPlotNavProps: QueryWrapperPlotNavProps = {
   shouldDeepLink: true,
   columnAliases,
 }
-const files: SynapseConfig = {
+const standards: SynapseConfig = {
   name: 'QueryWrapperPlotNav',
-  props: filesPlotNavProps,
+  props: standardsPlotNavProps,
 }
 
 export default standards

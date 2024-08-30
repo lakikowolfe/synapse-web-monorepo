@@ -1,7 +1,7 @@
 import { RouteControlWrapperProps } from '@sage-bionetworks/synapse-portal-framework/components/RouteControlWrapper'
-import { files } from './synapseConfigs'
+import { standards } from './synapseConfigs'
 
 const routeControlWrapperProps: RouteControlWrapperProps = {
-  customRoutes: [{ path: 'Files', synapseConfigArray: [files] }],
+  customRoutes: [{ path: 'Standards', synapseConfigArray: [standards] }],
 }
 export default routeControlWrapperProps
