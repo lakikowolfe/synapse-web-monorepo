@@ -1,0 +1,22 @@
+import{F as s}from"./FeaturedToolsList-BbKHg6KB.js";import"./jsx-runtime-DR4tA_9P.js";import"./index-Vg79BID-.js";import"./iframe-CFDjoW5s.js";import"./useFiles-Bwg0s9f_.js";import"./VerificationSubmission-dxY1kvC5.js";import"./SynapseConstants-CC0rfazt.js";import"./OrientationBanner-D6g2n9Ed.js";import"./index-Ce5YK_VT.js";import"./spreadSx-CwcO6WA9.js";import"./react-Cy1cZ39D.js";import"./FullWidthAlert-DUYwRGp_.js";import"./Alert-DbEi88XW.js";import"./createTheme-DXmTCCCj.js";import"./resolveComponentProps-CedEO8KE.js";import"./isHostComponent-DVu5iVWx.js";import"./useForkRef-63n_0gwC.js";import"./createSvgIcon-9LdlP7Pe.js";import"./DefaultPropsProvider-DEgZ9IxH.js";import"./Close-bzmN7BlE.js";import"./IconButton-DDnvOzB0.js";import"./ButtonBase-Bp4tlF7M.js";import"./useTimeout-Bmchsjft.js";import"./TransitionGroupContext-BzNTPzjo.js";import"./useIsFocusVisible-B83Pi7Rh.js";import"./useEventCallback-C5p3MRGc.js";import"./Paper-DVO33gFY.js";import"./Stack-BLi-xU46.js";import"./getThemeProps-BcJTOhRM.js";import"./useTheme-BwrFdNA1.js";import"./Box-Dx0zJWvv.js";import"./AlertTitle-PUy9LFc0.js";import"./Typography-CaIHMzUk.js";import"./useTheme-CsEanI0A.js";import"./Grow--OkInp2b.js";import"./index-BOC6r9lG.js";import"./utils-CeLCQfAC.js";import"./ClickAwayListener-mcCXQhRy.js";import"./ownerDocument-DW-IO8s5.js";import"./Tooltip-Eupu-pPA.js";import"./index-D_Bz3QI0.js";import"./useControlled-CCdnr4Dv.js";import"./useId-vp5UP7jH.js";import"./Popper-DZ7-s0Kz.js";import"./Button-DA8RCH2U.js";import"./fetchWithExponentialTimeout-Cpvpsfq8.js";import"./StringUtils-lE31obNl.js";import"./useQuery-DD6Qx8YL.js";import"./utils-CzjhUDee.js";import"./Link-B9q2Qbuh.js";import"./Collapse-B0rWqOPL.js";import"./isNil-FLY8Au3U.js";import"./_Uint8Array-D4FAVcjH.js";import"./_baseTimes-36S_kd0L.js";import"./isObjectLike-CG8Lv5Yt.js";import"./isArray-Dxzbedgu.js";import"./_baseIsEqual-POOioTDn.js";import"./_getTag-Bm-7XfiV.js";import"./tinycolor-Begke6kS.js";import"./Fade-D9T8AoT0.js";import"./Skeleton-B_OQBy-8.js";import"./inputBaseClasses-DIzPzOvk.js";import"./calculateFriendlyFileSize-CZUPi2gZ.js";import"./CheckCircleTwoTone-CschQz1p.js";import"./InfoTwoTone-Dn-ZYr7l.js";import"./mutation-2Oe4VFYe.js";import"./dayjs.min-Dofo-31o.js";import"./chunk-AYJ5UCUI-DXwcYtNa.js";import"./cloneDeep-VFlbVhYR.js";import"./_initCloneObject-B8S0M8p_.js";import"./isEqual-BBn7n2HH.js";import"./merge-Cs-r_5th.js";import"./identity-DKeuBCMA.js";import"./DateFormatter-vIYhaPWl.js";import"./utc-D3opIxUu.js";import"./localizedFormat-D-ezdnq-.js";import"./ShowMore-eWGvyx8h.js";const Oo={title:"Home Page/FeaturedToolsList",component:s},o={args:{entityId:"syn26450069",idColumnName:"resourceId",nameColumnName:"resourceName",descriptionColumnName:"description",typeColumnName:"resourceType",dateColumnName:"dateAdded",toolDetailPageURL:"/Explore/Tools/DetailsPage?Resource_id=",filterClause:"ORDER BY dateAdded DESC"}},r={args:{entityId:"syn51469335",idColumnName:"id",nameColumnName:"name",descriptionColumnName:"summary",typeColumnName:"softwareType",toolURLColumnName:"url",filterClause:`WHERE "isFeatured" = 'true'`}};var m,t,e;o.parameters={...o.parameters,docs:{...(m=o.parameters)==null?void 0:m.docs,source:{originalSource:`{
+  args: {
+    entityId: 'syn26450069',
+    idColumnName: 'resourceId',
+    nameColumnName: 'resourceName',
+    descriptionColumnName: 'description',
+    typeColumnName: 'resourceType',
+    dateColumnName: 'dateAdded',
+    toolDetailPageURL: '/Explore/Tools/DetailsPage?Resource_id=',
+    filterClause: 'ORDER BY dateAdded DESC'
+  }
+}`,...(e=(t=o.parameters)==null?void 0:t.docs)==null?void 0:e.source}}};var i,p,a;r.parameters={...r.parameters,docs:{...(i=r.parameters)==null?void 0:i.docs,source:{originalSource:`{
+  args: {
+    entityId: 'syn51469335',
+    idColumnName: 'id',
+    nameColumnName: 'name',
+    descriptionColumnName: 'summary',
+    typeColumnName: 'softwareType',
+    toolURLColumnName: 'url',
+    filterClause: 'WHERE "isFeatured" = \\'true\\''
+  }
+}`,...(a=(p=r.parameters)==null?void 0:p.docs)==null?void 0:a.source}}};const wo=["NFDemo","ELITEDemo"];export{r as ELITEDemo,o as NFDemo,wo as __namedExportsOrder,Oo as default};
