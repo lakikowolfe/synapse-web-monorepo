@@ -1,0 +1,1 @@
+import{l as r,S as n}from"./useFiles-B8iGcL8P.js";import"./VerificationSubmission-CNoSrCdk.js";import"./StringUtils-CwQ1lgbR.js";import{u as o}from"./useQuery-BL_vVSiq.js";function p(e,t){const{keyFactory:a}=r();return o({...t,queryKey:a.getValidationSchemaQueryKey(e),queryFn:async()=>(await n.getValidationSchema(e)).validationSchema})}export{p as u};
